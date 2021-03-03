@@ -1,6 +1,6 @@
 # Description
 __________________
-Doing python homework.
+Homework.
 
 ## Target 1:
 
