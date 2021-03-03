@@ -14,21 +14,21 @@ Implement the "Traffic Light" script in an infinite loop with the ability to ter
 
 Write a script to solve a quadratic equation.
 
-### Usage 1:
+### Usage svetofor1.py:
 
 Enter the color and act according to the instructions received
 
-### Usage 2:
+### Usage svetofor2.py:
 
-Enter the color and act according to the instructions received.
+Enter the color and follow the instructions. To terminate the action, enter exit.
 
-### Usage 3:
+### Usage quadratic_equation.py:
 
-Enter the coefficients of the quadratic equation
+Enter the coefficients of the quadratic equation.
 
 
 #### TODO:
 
-Just run the code
+Just run the code.
 
 
