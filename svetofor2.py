@@ -1,3 +1,8 @@
+"""
+Введи цвет светофора говорит, и программа скажет что тебе делать.
+
+exit -- завершает программу
+"""
 print ('Svetofor')
 comand = str(input ('Tell me the color\n'))
 while comand.lower() != 'exit':
