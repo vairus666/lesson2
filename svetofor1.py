@@ -1,3 +1,4 @@
+"""Введи цвет светофора говорит, и программа скажет что тебе делать."""
 print ('Svetofor')
 comand = str(input ('Tell me the color\n'))
 if comand.lower() == "red":
